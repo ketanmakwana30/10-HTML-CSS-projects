@@ -30,9 +30,3 @@ Welcome to my **10-Day Frontend Challenge Repository** — a personal project wh
 ```bash
 # Clone this repository
 git clone https://github.com/ketanmakwana30/10-HTML-CSS-projects.git
-
-# Open any project folder
-cd 01_personal_portfolio
-
-# Open in your browser
-start index.html
