@@ -15,6 +15,9 @@ Welcome to my **10-Day Frontend Challenge Repository** — a personal project wh
 | `05_recipe_page` | Recipe Page | Beautiful page showcasing food recipes. |
 | `06_social_media_selector_menu` | Social Media Selector Menu | Interactive social link hover effects. |
 | `07_business_homepage` | Business Homepage | Corporate-style homepage design. |
+| `08_signin_signup_page` | Sign In / Sign Up Page | Screenshot/08-sign-in.png |
+| `09_survey_form`       | Survey Form            | Screenshot/09-survey-form.png |
+| `10_event_invitation`  | Event Invitation Page  | Screenshot/10-event.png |
 
 
 ---
