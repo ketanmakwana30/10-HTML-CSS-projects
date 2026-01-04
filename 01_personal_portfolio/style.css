@@ -11,31 +11,75 @@ header{
 header img { 
     /* width: 200px; */
     height: 200px;
-    border-radius: 60px;
+    border-radius: 50%;
     margin-bottom: 10px;
 }
 
 section{ 
     margin: 20px;
+    background-color:#e9e9e9 ;
+    border-radius: 8ox;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+#work h2{
+    text-align: left;
+    padding: 15px;
 }
  
 .project{
-    width: 200px;
-    height: 200px;
+    height: 280px;
+    width: auto;
     border: 1px solid #ccc;
     margin: 10px;
-    display: inline-block;
     text-align: center;
     line-height: 200px;
+    border-radius: 8px;
+    border: none;
+}
+
+#project1 img ,#project2 img{
+    box-shadow: 0 0 8px black;
+    border-radius: 8px;
+    width: 590px;
+    height: 400px;
+    transition: 0.5s;
+}
+
+#project3, #project4{
+    margin-top: 160px;
+}
+
+#project3 img, #project4 img{
+    box-shadow: 0 0 8px black;
+    height: auto;
+    width: 590px;
+    border-radius: 8px;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+
+#project1 img:hover ,#project2 img:hover, #project3 img:hover, #project4 img:hover {
+    box-shadow: 5px 5px 10px black;
+    transform:translateY(-4px);
 }
 
 h1, h2 {
  color: #333;
 }
 
-#bio, #work{ 
+#bio{ 
     background-color:#e9e9e9 ;
     padding: 15px;
+}
+section{
+    border-radius: 8px;
 }
 
 footer{

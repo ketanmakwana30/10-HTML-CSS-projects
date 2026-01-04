@@ -1,23 +1,27 @@
 # 🌟 10 Days - HTML & CSS Challenge  
 
-Welcome to my **10-Day Frontend Challenge Repository** — a personal project where I created **10 different web pages** using **HTML & CSS** to improve my design and development skills.  
+Welcome to my **30-Day Frontend Challenge Repository** — a personal project where I created **30 different web pages** using **HTML & CSS** to improve my design and development skills.  
 
 ---
 
-## 📂 Folder Structure  
+## 📁 Folder Structure
 
 | Folder | Project Name | Description |
-|:--|:--|:--|
-| `01_personal_portfolio` | Personal Portfolio | A clean and responsive portfolio layout. |
-| `02_simple_blog_page` | Simple Blog Page | Blog layout with post cards and sidebar. |
-| `03_landing_page` | Landing Page | Modern landing page design for any product or service. |
-| `04_ecommerce_page` | E-commerce Page | Simple e-commerce product display page. |
-| `05_recipe_page` | Recipe Page | Beautiful page showcasing food recipes. |
-| `06_social_media_selector_menu` | Social Media Selector Menu | Interactive social link hover effects. |
-| `07_business_homepage` | Business Homepage | Corporate-style homepage design. |
-| `08_signin_signup_page` | Sign In / Sign Up Page | User authentication interface with modern, responsive form design. |
-| `09_survey_form`       | Survey Form            | Interactive survey form with well-structured inputs and layout. |
-| `10_event_invitation`  | Event Invitation Page  | Elegant event invitation page featuring event details and call-to-action. |
+|------|-------------|-------------|
+| `01_personal_portfolio` | Personal Portfolio | A clean and responsive personal portfolio website. |
+| `02_signin_signup-page` | Sign In / Sign Up Page | Modern authentication UI with login and signup forms. |
+| `03_webpage_design` | Webpage Design | Creative static webpage design using HTML & CSS. |
+| `04_business_homepage` | Business Homepage | Corporate-style homepage layout for a business website. |
+| `05_landing_page` | Landing Page | Modern landing page design for products or services. |
+| `06_social_media_selector_menu` | Social Media Selector Menu | Interactive social media menu with hover effects. |
+| `07_Profile-card` | Profile Card | Stylish profile card component with user details. |
+| `08_simple_blog_page` | Simple Blog Page | Blog layout with posts and clean typography. |
+| `09_ecommerce_page` | E-commerce Page | Simple e-commerce product showcase page. |
+| `10_event_invitation` | Event Invitation Page | Elegant event invitation page with details & CTA. |
+| `11_survey_form` | Survey Form | Interactive survey form with structured inputs. |
+| `12_recipe_page` | Recipe Page | Beautiful food recipe page layout. |
+| `13_login_page` | Login Page | Clean and responsive login form design. |
+| `14_my_site` | Personal Website | Custom personal website experiment project. |
 
 
 ---
