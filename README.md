@@ -1,4 +1,4 @@
-# 🌟 10 Days - HTML & CSS Challenge  
+# 🌟 30 Days - HTML & CSS Challenge  
 
 Welcome to my **30-Day Frontend Challenge Repository** — a personal project where I created **30 different web pages** using **HTML & CSS** to improve my design and development skills.  
 
