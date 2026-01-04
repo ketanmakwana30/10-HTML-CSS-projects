@@ -1,2 +1,2 @@
 ## Login Page
-![login_page](../Screenshot/05-Recipe.png)
+![login_page](../Screenshot/13-login-page.png)
